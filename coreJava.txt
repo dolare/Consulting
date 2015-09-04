@@ -1,0 +1,4 @@
+1 local var 必须赋初值 instant不需要
+2 subclasses of  abstract class must override the method of the abstract class
+3 单程继承类 所以用接口 实现multiple inheritance
+4 
